@@ -1,0 +1,36 @@
+ul.list-group {
+    min-height: 200px;
+}
+
+i.icon{
+    cursor: pointer;
+}
+
+.list-group-item{
+    cursor: move;
+}
+.list-group-item .text-gray{
+    color:#7f7c7c;
+}
+.list-group-item .text-gray:hover{
+    color:black;
+}
+
+.list-group-item .text-red{
+    color:#e66d79;
+}
+.list-group-item .text-red:hover{
+    color:#c31828;
+}
+.list-group-item .text-blue{
+    color:#436fb1;
+}
+.list-group-item .text-blue:hover{
+    color:#2c5ca5;
+}
+.bg-success-light {
+    background-color: #3adc5f!important;
+}
+.bg-info-light {
+    background-color: #6bcddc!important;
+}
